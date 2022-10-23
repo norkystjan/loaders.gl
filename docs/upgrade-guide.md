@@ -1,5 +1,10 @@
 # Upgrade Guide
 
+## Upgrading to v4.0
+
+- If your application is using the Apache Arrow API directly to work with Apache Arrow tables returned from loaders.gl, note that the Apache Arrow v9 API contains a number of breaking changes. 
+- The new Apache Arrow API is more modular and "tree shakeable" (meaning that only the Apache Arrow functionality your application is actually using is included in your application bundle). 
+
 ## Upgrading to v3.2
 
 **@loaders.gl/geopackage**

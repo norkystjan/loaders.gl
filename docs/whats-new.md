@@ -21,17 +21,22 @@
 
 See [roadmap](./roadmap) for more details on planned development.
 
-## v3.3 (In Development)
+## v4.0 (In Development on 4.0-dev branch)
 
-Release Date: TBD, Q1-2022
+Release Date: TBD, Q1-2023
 
 **@loaders.gl/arrow**
 
-- Now uses `apache-arrow` v9
+- Now uses `apache-arrow` v9. 
+- Apache Arrow v9 is a breaking change. 
+
+## v3.3 (In Development)
+
+Release Date: TBD, Q4-2022
 
 ## v3.2
 
-Target Release Date: Q1 2022.
+Release Date: May 12, 2022.
 
 **loaders.gl/arrow**
 
