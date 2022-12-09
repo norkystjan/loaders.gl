@@ -14,7 +14,7 @@ export const TerrainLoader = {
   mimeTypes: ['image/png', 'image/jpeg', 'image/gif', 'image/webp', 'image/bmp'],
   options: {
     terrain: {
-      tesselator: 'auto',
+      tesselator: 'delatin',
       bounds: null,
       meshMaxError: 10,
       elevationDecoder: {
